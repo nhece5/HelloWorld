@@ -1,2 +1,3 @@
 i am learning git.
-Hello friends.we are in master
+Hello friends.
+we are in master
