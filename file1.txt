@@ -1,2 +1,3 @@
 i am learning git.
 Hello friends.
+this is feature 2.
